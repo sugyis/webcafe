@@ -325,7 +325,6 @@ margin: 10px 0;
   font-weight: 700;
 }
 
-}
 .term-list > div{
   margin-top: 10px;
 }
@@ -355,4 +354,33 @@ margin: 10px 0;
 }
 .even .term-list-thumbnail{
   float: right;
+}
+/* 검색 폼 */
+.search{
+  border: 1px solid #aaa;
+  border-bottom: 0;
+  border-radius: 15px 15px 0 0;
+  padding: 15px 25px 10px;
+  background: #bbb linear-gradient(to bottom, #bbb, #fff);
+}
+.search-form fieldset{
+border: 0;
+}
+.search label, .search-form input, .btn-search{
+  vertical-align: middle;
+}
+.search-form input{
+width: 190px;
+height: 24px;
+border: 1px solid #aaa;
+padding: 1px 1px 1px 5px;
+margin : 0 5px;
+}
+.btn-search{
+  background: #333;
+  color: #fff;
+  border: 0;
+  padding: 0 10px;
+  height: 24px;
+  border-radius: 3px;
 }
