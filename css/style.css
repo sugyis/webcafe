@@ -589,6 +589,6 @@ background-position: -36px 0;
   padding-left: 25px;
 }
 .related-list a:focus{
-  outline: 1px solid rgba(0,0,210,0);
+  outline: 1px solid rgba(0,0,210,1);
   outline-offset: -2px;
 }
