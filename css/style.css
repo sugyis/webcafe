@@ -475,7 +475,7 @@ text-overflow: ellipsis;
   background: #aaa linear-gradient(to right, #aaa, #fff);
 }
 .news-heading{
-font-size: 1.5rm;
+font-size: 1.5rem;
 color: #ed552f;
 }
 .news-link{
